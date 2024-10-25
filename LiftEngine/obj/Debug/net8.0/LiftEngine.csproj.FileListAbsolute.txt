@@ -18,6 +18,7 @@ C:\Dev\Labs\Liftsim\LiftApp\LiftEngine\obj\Debug\net8.0\LiftEngine.AssemblyInfoI
 C:\Dev\Labs\Liftsim\LiftApp\LiftEngine\obj\Debug\net8.0\LiftEngine.AssemblyInfo.cs
 C:\Dev\Labs\Liftsim\LiftApp\LiftEngine\obj\Debug\net8.0\LiftEngine.csproj.CoreCompileInputs.cache
 C:\Dev\Labs\Liftsim\LiftApp\LiftEngine\obj\Debug\net8.0\LiftEngine.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\Labs\Liftsim\LiftApp\LiftEngine\obj\Debug\net8.0\LiftEngine.sourcelink.json
 C:\Dev\Labs\Liftsim\LiftApp\LiftEngine\obj\Debug\net8.0\staticwebassets.build.json
 C:\Dev\Labs\Liftsim\LiftApp\LiftEngine\obj\Debug\net8.0\staticwebassets.development.json
 C:\Dev\Labs\Liftsim\LiftApp\LiftEngine\obj\Debug\net8.0\staticwebassets\msbuild.LiftEngine.Microsoft.AspNetCore.StaticWebAssets.props

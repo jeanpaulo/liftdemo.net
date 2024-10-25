@@ -11,8 +11,12 @@
       "RelativeMoniker": "D:0:0:{EB3451F2-9B8D-4A21-BDA2-2760C07CC260}|LiftEngine\\LiftEngine.csproj|solutionrelative:liftengine\\liftmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB3451F2-9B8D-4A21-BDA2-2760C07CC260}|LiftEngine\\LiftEngine.csproj|c:\\dev\\labs\\liftsim\\liftapp\\liftengine\\liftrequestqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB3451F2-9B8D-4A21-BDA2-2760C07CC260}|LiftEngine\\LiftEngine.csproj|solutionrelative:liftengine\\liftrequestqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB3451F2-9B8D-4A21-BDA2-2760C07CC260}|LiftEngine\\LiftEngine.csproj|c:\\dev\\labs\\liftsim\\liftapp\\liftengine\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3451F2-9B8D-4A21-BDA2-2760C07CC260}|LiftEngine\\LiftEngine.csproj|solutionrelative:liftengine\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E4A56CB-7D54-4DF0-A2B1-4F0F2D1E73C5}|LiftClient\\LiftClient.csproj|c:\\dev\\labs\\liftsim\\liftapp\\liftclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E4A56CB-7D54-4DF0-A2B1-4F0F2D1E73C5}|LiftClient\\LiftClient.csproj|solutionrelative:liftclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +25,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 453,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 556,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +38,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\Labs\\Liftsim\\LiftApp\\LiftClient\\Program.cs",
+              "RelativeDocumentMoniker": "LiftClient\\Program.cs",
+              "ToolTip": "C:\\Dev\\Labs\\Liftsim\\LiftApp\\LiftClient\\Program.cs",
+              "RelativeToolTip": "LiftClient\\Program.cs",
+              "ViewState": "AQIAAB0AAABAMzMzM5MwwDAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:29:29.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "LiftModule.cs",
               "DocumentMoniker": "C:\\Dev\\Labs\\Liftsim\\LiftApp\\LiftEngine\\LiftModule.cs",
               "RelativeDocumentMoniker": "LiftEngine\\LiftModule.cs",
               "ToolTip": "C:\\Dev\\Labs\\Liftsim\\LiftApp\\LiftEngine\\LiftModule.cs",
               "RelativeToolTip": "LiftEngine\\LiftModule.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAmwEkAAABMAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAuwEQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T20:21:02.294Z",
               "EditorCaption": ""
@@ -48,9 +65,22 @@
           ]
         },
         {
-          "DockedWidth": 553,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 450,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "C:\\Dev\\Labs\\Liftsim\\LiftApp\\LiftEngine\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "LiftEngine\\Services\\GreeterService.cs",
+              "ToolTip": "C:\\Dev\\Labs\\Liftsim\\LiftApp\\LiftEngine\\Services\\GreeterService.cs",
+              "RelativeToolTip": "LiftEngine\\Services\\GreeterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:44:23.586Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -59,22 +89,9 @@
               "RelativeDocumentMoniker": "LiftEngine\\Program.cs",
               "ToolTip": "C:\\Dev\\Labs\\Liftsim\\LiftApp\\LiftEngine\\Program.cs",
               "RelativeToolTip": "LiftEngine\\Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAQwDQAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T20:19:20.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LiftRequestQueue.cs",
-              "DocumentMoniker": "C:\\Dev\\Labs\\Liftsim\\LiftApp\\LiftEngine\\LiftRequestQueue.cs",
-              "RelativeDocumentMoniker": "LiftEngine\\LiftRequestQueue.cs",
-              "ToolTip": "C:\\Dev\\Labs\\Liftsim\\LiftApp\\LiftEngine\\LiftRequestQueue.cs",
-              "RelativeToolTip": "LiftEngine\\LiftRequestQueue.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T14:47:36.846Z",
               "EditorCaption": ""
             }
           ]
