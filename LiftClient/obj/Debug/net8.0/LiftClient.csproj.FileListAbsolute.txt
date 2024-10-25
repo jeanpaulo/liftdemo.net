@@ -1,0 +1,14 @@
+C:\Dev\Labs\Liftsim\LiftApp\LiftClient\bin\Debug\net8.0\LiftClient.exe
+C:\Dev\Labs\Liftsim\LiftApp\LiftClient\bin\Debug\net8.0\LiftClient.deps.json
+C:\Dev\Labs\Liftsim\LiftApp\LiftClient\bin\Debug\net8.0\LiftClient.runtimeconfig.json
+C:\Dev\Labs\Liftsim\LiftApp\LiftClient\bin\Debug\net8.0\LiftClient.dll
+C:\Dev\Labs\Liftsim\LiftApp\LiftClient\bin\Debug\net8.0\LiftClient.pdb
+C:\Dev\Labs\Liftsim\LiftApp\LiftClient\obj\Debug\net8.0\LiftClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Labs\Liftsim\LiftApp\LiftClient\obj\Debug\net8.0\LiftClient.AssemblyInfoInputs.cache
+C:\Dev\Labs\Liftsim\LiftApp\LiftClient\obj\Debug\net8.0\LiftClient.AssemblyInfo.cs
+C:\Dev\Labs\Liftsim\LiftApp\LiftClient\obj\Debug\net8.0\LiftClient.csproj.CoreCompileInputs.cache
+C:\Dev\Labs\Liftsim\LiftApp\LiftClient\obj\Debug\net8.0\LiftClient.dll
+C:\Dev\Labs\Liftsim\LiftApp\LiftClient\obj\Debug\net8.0\refint\LiftClient.dll
+C:\Dev\Labs\Liftsim\LiftApp\LiftClient\obj\Debug\net8.0\LiftClient.pdb
+C:\Dev\Labs\Liftsim\LiftApp\LiftClient\obj\Debug\net8.0\LiftClient.genruntimeconfig.cache
+C:\Dev\Labs\Liftsim\LiftApp\LiftClient\obj\Debug\net8.0\ref\LiftClient.dll
