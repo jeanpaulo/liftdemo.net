@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "LiftEngine";
+
+package lift;
+
+service Elevator {
+	rpc RequestLift(RequestModel) returns (RequestReply);
+}
+
+
+message RequestModel {
+	int32 floor = 1;
+}
+
+message RequestReply {
+}

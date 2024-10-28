@@ -5,7 +5,7 @@ bool endApp = false;
 
 string address = "https://localhost:7049";
 var channel = GrpcChannel.ForAddress(address);
-var client = new Greeter.GreeterClient(channel);
+var client = new Elevator.ElevatorClient(channel);
 
 while (!endApp)
 {
@@ -41,12 +41,12 @@ async Task<bool> RequestLift(string floor)
         Console.WriteLine("Invalid floor");
     }
 
-    var input = new HelloRequest { Name = "3" };
+    var input = new RequestModel { Floor = destination };
 
     await Task.Delay(200);
 
 
-    var reply = await client.SayHelloAsync(input);
+    var reply = await client.RequestLiftAsync(input);
     //elevador.RequestMoveTo(destination);
 
     return true;
